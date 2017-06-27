@@ -1,0 +1,26 @@
+.pfLeftButton{
+    position: absolute;
+    left: 19%;
+    top: 50%;
+}
+
+.pfRightButton{
+    position: absolute;
+    right: 21%;
+    top: 50%;
+}
+.mainTabHome{
+    color:red;
+}
+.mainTab{
+    color:blue;
+}
+.background-red{
+    background: red;
+}
+.background-yellow{
+    background: yellow;
+}
+.background-green{
+    background: green;
+}

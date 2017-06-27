@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../libsFor2/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/main.css">
+    <script type="text/javascript" src="../libsFor2/angular.min.js"></script>
+    <script type="text/javascript" src="../libsFor2/angular-animate.min.js"></script>
+    <script type="text/javascript" src="../libsFor2/angular-touch.min.js"></script>
+    <script type="text/javascript" src="../libsFor2/ui-bootstrap-tpls-2.4.0.min.js"></script>
+    <script type="text/javascript" src="../rootCtrl.js"></script>
+</head>
+<body ng-app="myApp" ng-controller="RootCtrl">
+<button><a href="../index.html">Home</a></button>
+
+
+<!--The second component:-->
+<button type="button" class="btn btn-primary pfLeftButton" ng-model="turnLeft" uib-btn-checkbox btn-checkbox-true="1" btn-checkbox-false="0" >
+    Previous
+</button>
+
+<button type="button" class="btn btn-primary pfRightButton" ng-model="turnRight" uib-btn-checkbox btn-checkbox-true="1" btn-checkbox-false="0">
+    Next
+</button>
+<div style="background: url('../img/Background-500x500.png');width:500px;height:500px;margin-left:30%;">
+    <md-card>
+        <!--<img src="./img/background.jpeg" class="md-card-image" alt="image caption">-->
+        <md-card-content >
+            <h2>Card headline</h2>
+            <p>Card content</p>
+        </md-card-content>
+        <md-card-actions layout="row" layout-align="end center">
+            <md-button>Action 1</md-button>
+            <md-button>Action 2</md-button>
+        </md-card-actions>
+    </md-card>
+</div>
+
+<form name="eventform" ng-submit="saveSessions(eventform.$valid)" novalidate>
+    <div class="col-sm-12 col-md-12">
+        <br/>
+        <div class="row">
+            <div style="color:red;z-index: 2;position: absolute;margin-left: 5px;">
+                <span ng-show="agendaform.sessionTitle.$error.required" class="requireStyle">*</span>
+            </div>
+            <div class="col-sm-6 col-md-6" style="font-size:14px;margin-bottom: 2px;">Title</div>
+        </div>
+        <textarea type="text" class="form-control input noneborderradius" name="sessionTitle" id="title" placeholder="Title" ng-model="thisTitle" ng-change="checkInputValidation()" maxlength=2000 required></textarea>
+        <br/>
+    </div>
+</form>
+</body>
+</html>

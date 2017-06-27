@@ -1,0 +1,957 @@
+{
+  "_id": "220b9858ebc110e366f005caef4a7ebc",
+  "_rev": "8-5280a19ecaa3cdab733a55daf5352603",
+  "displayId": "NUCvzOI",
+  "name": "2017 GCG GBS Business Process Services Boot-Camp (old)",
+  "timezone": {
+    "id": "PRC",
+    "offset": 8,
+    "displayname": "(GMT +08:00) PRC"
+  },
+  "clientids": [
+    "P&G",
+    "ibm"
+  ],
+  "location": [
+    "220b9858ebc110e366f005caef13bc0a"
+  ],
+  "startdate": {
+    "displaytime": "2017-01-19",
+    "utc": 1484816400000,
+    "timestamp": 1484787600000
+  },
+  "enddate": {
+    "displaytime": "2017-01-21",
+    "utc": 1485012600000,
+    "timestamp": 1484983800000
+  },
+  "agendaDone": true,
+  "agenda": [
+    {
+      "date": {
+        "displaytime": "2017-01-19",
+        "utc": 1484784000000,
+        "timestamp": 1484755200000
+      },
+      "sessions": [
+        {
+          "sessionid": "NUCvzN-1484115363233-0",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "09:00",
+            "utc": 1484816400000,
+            "timestamp": 1484787600000
+          },
+          "endtime": {
+            "displaytime": "09:30",
+            "utc": 1484818200000,
+            "timestamp": 1484789400000
+          },
+          "title": "Welcome Opening",
+          "description": "Introduction - setting scene,  explain why delivering the bootcamp and applying DT & solution into consulting.  \nWhat is we are expecting (outcome to achieve in 3 days)",
+          "location": "TR1, TR2, TR3",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484115363233-1",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "09:30",
+            "utc": 1484818200000,
+            "timestamp": 1484789400000
+          },
+          "endtime": {
+            "displaytime": "09:45",
+            "utc": 1484819100000,
+            "timestamp": 1484790300000
+          },
+          "title": "Agenda Introduction to Bootcamp",
+          "description": "Agenda for 3 days / Introduction to IBM Design thinking as overall methodology",
+          "location": "TR1, TR2, TR3",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-0",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "09:45",
+            "utc": 1484819100000,
+            "timestamp": 1484790300000
+          },
+          "endtime": {
+            "displaytime": "10:30",
+            "utc": 1484821800000,
+            "timestamp": 1484793000000
+          },
+          "title": "BPS Trend and Consult to Win Model",
+          "description": "BPS trends in 2017 and Consult to Operate and Operate to Consult Model Introduction",
+          "location": "TR1, TR2, TR3",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-1",
+          "sessiontype": "Break",
+          "starttime": {
+            "displaytime": "10:30",
+            "utc": 1484821800000,
+            "timestamp": 1484793000000
+          },
+          "endtime": {
+            "displaytime": "11:00",
+            "utc": 1484823600000,
+            "timestamp": 1484794800000
+          },
+          "title": "Break & Group Photo",
+          "description": "Get to know each other within group, build group name",
+          "location": "",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-2",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "11:00",
+            "utc": 1484823600000,
+            "timestamp": 1484794800000
+          },
+          "endtime": {
+            "displaytime": "11:30",
+            "utc": 1484825400000,
+            "timestamp": 1484796600000
+          },
+          "title": "Intelligent Automation, Robotics Process Automation (RPA) Solution",
+          "description": "Intelligent Automation, Robotics Process Automation RPA Solution",
+          "location": "TR1, TR2, TR3",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-3",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "11:30",
+            "utc": 1484825400000,
+            "timestamp": 1484796600000
+          },
+          "endtime": {
+            "displaytime": "12:30",
+            "utc": 1484829000000,
+            "timestamp": 1484800200000
+          },
+          "title": "Digital Client Engagement",
+          "description": "Digital Client Engagement solutions\n•  Client Expansion (CE) \n•  EMMA\n•  Client Vantage (CV) \n•  Solution Designer(SD) - Shen AL Liu/China/IBM",
+          "location": "TR1, TR2, TR3",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-4",
+          "sessiontype": "Lunch",
+          "starttime": {
+            "displaytime": "12:30",
+            "utc": 1484829000000,
+            "timestamp": 1484800200000
+          },
+          "endtime": {
+            "displaytime": "13:15",
+            "utc": 1484831700000,
+            "timestamp": 1484802900000
+          },
+          "title": "Lunch Break",
+          "location": "",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-5",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "13:15",
+            "utc": 1484831700000,
+            "timestamp": 1484802900000
+          },
+          "endtime": {
+            "displaytime": "16:15",
+            "utc": 1484842500000,
+            "timestamp": 1484813700000
+          },
+          "title": "[Breakout] Finance Cases",
+          "description": "What's the valuable case for GCG or Global market?  \nPaint points, Unique value  / Cases Introduction\n\n- Finance Cases:  \n1. New Hope Group(Sheng Mingliu) \n2. Ao Kang (Kong Rong)",
+          "location": "Training Room 4",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484273285317-0",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "13:15",
+            "utc": 1484831700000,
+            "timestamp": 1484802900000
+          },
+          "endtime": {
+            "displaytime": "16:15",
+            "utc": 1484842500000,
+            "timestamp": 1484813700000
+          },
+          "title": "[Breakout] Org. Trans. Cases",
+          "description": "What's the valuable case for GCG or Global market? \nPaint points, Unique value / Cases Introduction\n\n- Org. Trans. Cases Introduction: \n 1. O-film (Mike)",
+          "location": "Training Room 1",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484273285317-1",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "13:15",
+            "utc": 1484831700000,
+            "timestamp": 1484802900000
+          },
+          "endtime": {
+            "displaytime": "16:15",
+            "utc": 1484842500000,
+            "timestamp": 1484813700000
+          },
+          "title": "[Breakout] HR Trans. Cases",
+          "description": "What's the valuable case for GCG or Global market? \nPaint points, Unique value / Cases Introduction\n\n- HR Trans. Cases Introduction:  \n1. Ping An (Jacky)",
+          "location": "Training Room 2",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484273285317-2",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "13:15",
+            "utc": 1484831700000,
+            "timestamp": 1484802900000
+          },
+          "endtime": {
+            "displaytime": "16:15",
+            "utc": 1484842500000,
+            "timestamp": 1484813700000
+          },
+          "title": "[Breakout] Procurement Cases",
+          "description": "What's the valuable case for GCG or Global market? \nPaint points, Unique value / Cases Introduction\n\n- Procurement Cases Introduction: \n1. Hengan (Yang Bo)",
+          "location": "Training Room 3",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484273285317-3",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "13:15",
+            "utc": 1484831700000,
+            "timestamp": 1484802900000
+          },
+          "endtime": {
+            "displaytime": "16:15",
+            "utc": 1484842500000,
+            "timestamp": 1484813700000
+          },
+          "title": "[Breakout] Risk Cases",
+          "description": "What's the valuable case for GCG or Global market? \nPaint points, Unique value / Cases Introduction\n\n- Risk Cases Introduction: \n1. PSBC (Fu Dongsheng)",
+          "location": "Meeting Room 102",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484621304642-0",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "13:15",
+            "utc": 1484831700000,
+            "timestamp": 1484802900000
+          },
+          "endtime": {
+            "displaytime": "13:30",
+            "utc": 1484832600000,
+            "timestamp": 1484803800000
+          },
+          "title": "[Breakout] Case for Change / Topic Ice Breaker - Case Instruction",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-6",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "13:30",
+            "utc": 1484832600000,
+            "timestamp": 1484803800000
+          },
+          "endtime": {
+            "displaytime": "13:45",
+            "utc": 1484833500000,
+            "timestamp": 1484804700000
+          },
+          "title": "[Breakout] Understand / Stakeholders",
+          "description": "How to understand Stakeholders?",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-7",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "13:45",
+            "utc": 1484833500000,
+            "timestamp": 1484804700000
+          },
+          "endtime": {
+            "displaytime": "14:30",
+            "utc": 1484836200000,
+            "timestamp": 1484807400000
+          },
+          "title": "[Breakout] Understand / Stakeholders / Exercise 1 - Stakeholder Map / Empathy Map",
+          "description": "- Stakeholder Map\n- Empathy Map",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-8",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "14:30",
+            "utc": 1484836200000,
+            "timestamp": 1484807400000
+          },
+          "endtime": {
+            "displaytime": "15:00",
+            "utc": 1484838000000,
+            "timestamp": 1484809200000
+          },
+          "title": "[Breakout] Understand / Exercise 2 - As is Scenario Map",
+          "description": "- As is Scenario Map",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-9",
+          "sessiontype": "Break",
+          "starttime": {
+            "displaytime": "15:00",
+            "utc": 1484838000000,
+            "timestamp": 1484809200000
+          },
+          "endtime": {
+            "displaytime": "15:15",
+            "utc": 1484838900000,
+            "timestamp": 1484810100000
+          },
+          "title": "Break",
+          "location": "",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-10",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "15:15",
+            "utc": 1484838900000,
+            "timestamp": 1484810100000
+          },
+          "endtime": {
+            "displaytime": "15:45",
+            "utc": 1484840700000,
+            "timestamp": 1484811900000
+          },
+          "title": "[Breakout] Understand / Exercise 3 - Needs Statement",
+          "description": "- Needs Statement, align with understanding and ideation",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-11",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "15:45",
+            "utc": 1484840700000,
+            "timestamp": 1484811900000
+          },
+          "endtime": {
+            "displaytime": "16:15",
+            "utc": 1484842500000,
+            "timestamp": 1484813700000
+          },
+          "title": "[Breakout] Understand / Team Playback",
+          "description": "- Team Playback",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-12",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "16:15",
+            "utc": 1484842500000,
+            "timestamp": 1484813700000
+          },
+          "endtime": {
+            "displaytime": "18:15",
+            "utc": 1484849700000,
+            "timestamp": 1484820900000
+          },
+          "title": "Group Visit",
+          "description": "Group Visit to Dalian GPS delivery center(BPS Client Innovation Center) for Demos & Solution floor walk",
+          "location": "TR1, TR2, TR3",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484204946894-13",
+          "sessiontype": "Dinner",
+          "starttime": {
+            "displaytime": "19:15",
+            "utc": 1484853300000,
+            "timestamp": 1484824500000
+          },
+          "endtime": {
+            "displaytime": "21:15",
+            "utc": 1484860500000,
+            "timestamp": 1484831700000
+          },
+          "title": "Welcome Dinner",
+          "description": "Awards and Honor Recognition",
+          "location": "",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        }
+      ]
+    },
+    {
+      "date": {
+        "displaytime": "2017-01-20",
+        "utc": 1484870400000,
+        "timestamp": 1484841600000
+      },
+      "sessions": [
+        {
+          "sessionid": "NUCvzN-1484206376674-0",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "09:00",
+            "utc": 1484902800000,
+            "timestamp": 1484874000000
+          },
+          "endtime": {
+            "displaytime": "09:45",
+            "utc": 1484905500000,
+            "timestamp": 1484876700000
+          },
+          "title": "Leader Keynote Speech",
+          "description": "BPS Global Leader Chris Wyatt deliver Keynote Speech",
+          "location": "TR1, TR2, TR3",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-1",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "09:45",
+            "utc": 1484905500000,
+            "timestamp": 1484876700000
+          },
+          "endtime": {
+            "displaytime": "10:30",
+            "utc": 1484908200000,
+            "timestamp": 1484879400000
+          },
+          "title": "Digital Path to Cognitive Solution",
+          "description": "Cognitive Business Process Services",
+          "location": "TR1, TR2, TR3",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-2",
+          "sessiontype": "Break",
+          "starttime": {
+            "displaytime": "10:30",
+            "utc": 1484908200000,
+            "timestamp": 1484879400000
+          },
+          "endtime": {
+            "displaytime": "10:45",
+            "utc": 1484909100000,
+            "timestamp": 1484880300000
+          },
+          "title": "Break & Group Photo",
+          "location": "",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-3",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "10:45",
+            "utc": 1484909100000,
+            "timestamp": 1484880300000
+          },
+          "endtime": {
+            "displaytime": "11:00",
+            "utc": 1484910000000,
+            "timestamp": 1484881200000
+          },
+          "title": "[Breakout] Explore /  Ideation Panel",
+          "description": "Reflect our views and ideas, solution case sharing",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-4",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "11:00",
+            "utc": 1484910000000,
+            "timestamp": 1484881200000
+          },
+          "endtime": {
+            "displaytime": "12:30",
+            "utc": 1484915400000,
+            "timestamp": 1484886600000
+          },
+          "title": "[Breakout] Explore Breakout Exercise 1 - Solution Ideation",
+          "description": "",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-5",
+          "sessiontype": "Lunch",
+          "starttime": {
+            "displaytime": "12:30",
+            "utc": 1484915400000,
+            "timestamp": 1484886600000
+          },
+          "endtime": {
+            "displaytime": "13:30",
+            "utc": 1484919000000,
+            "timestamp": 1484890200000
+          },
+          "title": "Lunch Break",
+          "location": "",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-6",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "13:30",
+            "utc": 1484919000000,
+            "timestamp": 1484890200000
+          },
+          "endtime": {
+            "displaytime": "14:15",
+            "utc": 1484921700000,
+            "timestamp": 1484892900000
+          },
+          "title": "[Breakout] Explore Breakout Exercise 2 - Ideas Generating / Ideas Prioritization",
+          "description": "- Ideas Generating\n- Ideas Prioritization",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-7",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "14:15",
+            "utc": 1484921700000,
+            "timestamp": 1484892900000
+          },
+          "endtime": {
+            "displaytime": "14:30",
+            "utc": 1484922600000,
+            "timestamp": 1484893800000
+          },
+          "title": "[Breakout] Team Playback",
+          "description": "- Group Playbacks",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-8",
+          "sessiontype": "Break",
+          "starttime": {
+            "displaytime": "14:30",
+            "utc": 1484922600000,
+            "timestamp": 1484893800000
+          },
+          "endtime": {
+            "displaytime": "14:45",
+            "utc": 1484923500000,
+            "timestamp": 1484894700000
+          },
+          "title": "Break",
+          "location": "",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-9",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "14:45",
+            "utc": 1484923500000,
+            "timestamp": 1484894700000
+          },
+          "endtime": {
+            "displaytime": "15:15",
+            "utc": 1484925300000,
+            "timestamp": 1484896500000
+          },
+          "title": "[Breakout] Hills / Revisit on clarity of purpose",
+          "description": "Craft clear goals and Define Hills (3 hills)",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-10",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "15:15",
+            "utc": 1484925300000,
+            "timestamp": 1484896500000
+          },
+          "endtime": {
+            "displaytime": "15:45",
+            "utc": 1484927100000,
+            "timestamp": 1484898300000
+          },
+          "title": "[Breakout] Explore Breakout Exercise 3 - Craft Hills",
+          "description": "- Craft Hills, Like Become our clients’ Digital Reinvention partner of choice, value-led and asset-powered with Cognitive, Analytics, Design, and “One IBM”",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-11",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "15:45",
+            "utc": 1484927100000,
+            "timestamp": 1484898300000
+          },
+          "endtime": {
+            "displaytime": "16:00",
+            "utc": 1484928000000,
+            "timestamp": 1484899200000
+          },
+          "title": "[Breakout] Team Playback",
+          "description": "- Group Playbacks",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-12",
+          "sessiontype": "Break",
+          "starttime": {
+            "displaytime": "16:00",
+            "utc": 1484928000000,
+            "timestamp": 1484899200000
+          },
+          "endtime": {
+            "displaytime": "16:15",
+            "utc": 1484928900000,
+            "timestamp": 1484900100000
+          },
+          "title": "Break",
+          "location": "",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-13",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "16:15",
+            "utc": 1484928900000,
+            "timestamp": 1484900100000
+          },
+          "endtime": {
+            "displaytime": "17:00",
+            "utc": 1484931600000,
+            "timestamp": 1484902800000
+          },
+          "title": "[Breakout] Explore Breakout Exercise 4 - To-be Experience Map",
+          "description": "- To-be Experience Map, think about:\nHow CE, CV + EMMA will change customer experience in sales process?\nHow RPA will change the automation experience in Consulting / BPO? \nHow SD will change seller experience in sales process?\nHow cognitive systems will change business process operations and process outsourcing?",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-14",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "17:00",
+            "utc": 1484931600000,
+            "timestamp": 1484902800000
+          },
+          "endtime": {
+            "displaytime": "18:00",
+            "utc": 1484935200000,
+            "timestamp": 1484906400000
+          },
+          "title": "[Breakout] Explore Breakout Exercise 5 - Storyboarding",
+          "description": "- Storyboarding",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484206376674-15",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "18:00",
+            "utc": 1484935200000,
+            "timestamp": 1484906400000
+          },
+          "endtime": {
+            "displaytime": "18:15",
+            "utc": 1484936100000,
+            "timestamp": 1484907300000
+          },
+          "title": "[Breakout] Team Playback",
+          "description": "- Group Playbacks",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        }
+      ]
+    },
+    {
+      "date": {
+        "displaytime": "2017-01-21",
+        "utc": 1484956800000,
+        "timestamp": 1484928000000
+      },
+      "sessions": [
+        {
+          "sessionid": "NUCvzN-1484207004732-0",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "09:00",
+            "utc": 1484989200000,
+            "timestamp": 1484960400000
+          },
+          "endtime": {
+            "displaytime": "09:15",
+            "utc": 1484990100000,
+            "timestamp": 1484961300000
+          },
+          "title": "[Breakout] Prototype",
+          "description": "How to make prototype",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484207004732-1",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "09:15",
+            "utc": 1484990100000,
+            "timestamp": 1484961300000
+          },
+          "endtime": {
+            "displaytime": "10:15",
+            "utc": 1484993700000,
+            "timestamp": 1484964900000
+          },
+          "title": "[Breakout] Prototype Breakout Exercise 1 - Prototyping",
+          "description": "Prototyping (Domain Leaders lead, Solution owners provide advice),  Groups deep dive on 'to be' solutions - articulating MVPs, who, what, when, outcome",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484207004732-2",
+          "sessiontype": "Break",
+          "starttime": {
+            "displaytime": "10:15",
+            "utc": 1484993700000,
+            "timestamp": 1484964900000
+          },
+          "endtime": {
+            "displaytime": "10:30",
+            "utc": 1484994600000,
+            "timestamp": 1484965800000
+          },
+          "title": "Break",
+          "location": "",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484207004732-3",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "10:30",
+            "utc": 1484994600000,
+            "timestamp": 1484965800000
+          },
+          "endtime": {
+            "displaytime": "11:00",
+            "utc": 1484996400000,
+            "timestamp": 1484967600000
+          },
+          "title": "[Breakout] Prototype Breakout Exercise 2 - Develop Action Plan in 30/60/90 Days",
+          "description": "- Develop Action Plan in 30/60/90 Days, by leveraging Grow the base-drive concept",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484207004732-4",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "11:00",
+            "utc": 1484996400000,
+            "timestamp": 1484967600000
+          },
+          "endtime": {
+            "displaytime": "11:15",
+            "utc": 1484997300000,
+            "timestamp": 1484968500000
+          },
+          "title": "[Breakout] Team Playback",
+          "description": "How to prepare final Playback",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484207004732-5",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "11:15",
+            "utc": 1484997300000,
+            "timestamp": 1484968500000
+          },
+          "endtime": {
+            "displaytime": "12:15",
+            "utc": 1485000900000,
+            "timestamp": 1484972100000
+          },
+          "title": "[Breakout] Final Presentation Preparation",
+          "description": "Groups working in breakouts to playback ready to present to Snr leads - to include details on Who, What, When, Priority, Impact, Resources…",
+          "location": "-",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484207004732-6",
+          "sessiontype": "Lunch",
+          "starttime": {
+            "displaytime": "12:15",
+            "utc": 1485000900000,
+            "timestamp": 1484972100000
+          },
+          "endtime": {
+            "displaytime": "13:15",
+            "utc": 1485004500000,
+            "timestamp": 1484975700000
+          },
+          "title": "Lunch Break",
+          "location": "",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484207004732-7",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "13:15",
+            "utc": 1485004500000,
+            "timestamp": 1484975700000
+          },
+          "endtime": {
+            "displaytime": "15:15",
+            "utc": 1485011700000,
+            "timestamp": 1484982900000
+          },
+          "title": "Final Presentation",
+          "description": "Playbacks  / Evaluation / Solution Pitches: \u000bEach team presents the proposals to Steven etc. for feedback",
+          "location": "TR1, TR2, TR3",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        },
+        {
+          "sessionid": "NUCvzN-1484207004732-8",
+          "sessiontype": "Presentation/Demo",
+          "starttime": {
+            "displaytime": "15:15",
+            "utc": 1485011700000,
+            "timestamp": 1484982900000
+          },
+          "endtime": {
+            "displaytime": "15:30",
+            "utc": 1485012600000,
+            "timestamp": 1484983800000
+          },
+          "title": "Thanks and Wrap-up",
+          "location": "TR1, TR2, TR3",
+          "centerid": "220b9858ebc110e366f005caef13bc0a",
+          "presenters": []
+        }
+      ]
+    }
+  ],
+  "attendeesNum": 2,
+  "attendees": [
+    {
+      "email": "huangjun1@test.com",
+      "clientid": "P&G",
+      "iscoreattendee": false,
+      "ishottopicadmin": false
+    },
+    {
+      "email": "m15229204898@163.com",
+      "clientid": "P&G",
+      "iscoreattendee": false,
+      "ishottopicadmin": false
+    }
+  ],
+  "editorsNum": 1,
+  "bdmNum": 0,
+  "editors": [
+    "eventadmin@test.com"
+  ],
+  "createby": "zbhzhao@cn.ibm.com",
+  "updateby": "zbhzhao@cn.ibm.com",
+  "welcomenote": "Welcome to IBM Dalian!\n\nWe look forward to have a fruitful discussion and have a continued relationship with you.\n\nThank you.",
+  "haswelcomevideo": false,
+  "ispublished": true,
+  "chargeInfo": {
+    "countryNumber": "834",
+    "division": "02",
+    "departmentNumber": "RIO",
+    "major": "827"
+  },
+  "publishedBy": "zbhzhao@cn.ibm.com",
+  "publishedTimestamp": 1484734673351,
+  "countOfSuggestedTopics": 0,
+  "lastupdate": 1484734648803
+}

@@ -1,0 +1,16 @@
+.article-bold{
+
+}
+
+.article-italic
+{
+    font-style: italic;
+}
+.gray-box{
+    background-color: lightgray;
+}
+.article-page{
+    width: 50%;
+    margin-left:25%;
+    background-color: #ffffff;
+}

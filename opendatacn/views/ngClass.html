@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../libsFor2/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/main.css">
+    <script type="text/javascript" src="../libsFor2/angular.min.js"></script>
+    <script type="text/javascript" src="../libsFor2/angular-animate.min.js"></script>
+    <script type="text/javascript" src="../libsFor2/angular-touch.min.js"></script>
+    <script type="text/javascript" src="../libsFor2/ui-bootstrap-tpls-2.4.0.min.js"></script>
+    <script type="text/javascript" src="../rootCtrl.js"></script>
+</head>
+<body ng-app="myApp" ng-controller="RootCtrl">
+<button><a href="../index.html">Home</a></button>
+</br>
+</br>
+</br>
+<button ng-click="clickRedButton()">Red</button>
+<button ng-click="clickYellowButton()">Yellow</button>
+<button ng-click="clickGreenButton()">Green</button>
+<div style="width:100px;height:100px;" ng-class="{'background-red':status==-1,'background-yellow':status==0,'background-green':status==1}">
+
+</div>
+</body>
+</html>
