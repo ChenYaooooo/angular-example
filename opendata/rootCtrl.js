@@ -10,6 +10,9 @@ angular.module('myApp', ['ngAnimate', 'ngTouch', 'ui.bootstrap'])
     $scope.turnLeft = 1;
     $scope.turnRight = 1;
     // $scope.status = 1;
+    $scope.openPage = function(pageName){
+        window.open("./views/BeiJingMesum/"+pageName);
+    }
 
     $scope.clickRedButton = function(){
         console.log("-1");

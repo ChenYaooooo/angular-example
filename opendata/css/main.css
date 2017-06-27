@@ -24,3 +24,7 @@
 .background-green{
     background: green;
 }
+
+td, th {
+    padding: 12px 25px;
+}
